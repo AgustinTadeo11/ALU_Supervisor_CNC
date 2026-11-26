@@ -25,6 +25,7 @@
   "GRT_DESIGN_REPAIR_MAX_CAP_PCT": 30,
 
   "CTS_SINK_CLUSTERING_SIZE": 14,
+  "CTS_SINK_CLUSTERING_MAX_DIAMETER": 80,
   "CTS_MAX_CAP": 0.18,
 
   "//": "Hold slack margin - Increase them in case you are getting hold violations.",
